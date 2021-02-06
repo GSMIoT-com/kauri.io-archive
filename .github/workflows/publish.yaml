@@ -15,4 +15,4 @@ jobs:
         uses: mhausenblas/mkdocs-deploy-gh-pages@master
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          CUSTOM_DOMAIN: kauri.io
+          CUSTOM_DOMAIN: gsmiot-com.github.io/kauri.io-archive
